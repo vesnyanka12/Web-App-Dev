@@ -4,3 +4,6 @@ I build the classic snake game using pure JavaScript. That means I will use no l
 
 
 RUN with VS studio Code through index.html use Live Server
+
+
+http://127.0.0.1:5500/
